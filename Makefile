@@ -2,4 +2,4 @@
 
 
 test:
-	@echo "test"
+	@echo "hello from makefile"
